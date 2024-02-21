@@ -1,0 +1,22 @@
+#title {
+    text-align: center;
+    font-family: Pixelify Sans;
+    background-color: lightgrey
+}
+
+#phrase {
+    text-align: center;
+    margin-top: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#button {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightpink;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 3rem;
+  }
